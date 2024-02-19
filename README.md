@@ -12,7 +12,7 @@ single cell RNA sequencing data to study neurodegenerative disease.
 
 * 🌍  I'm based in Raleigh, NC
 * ✉️  You can contact me at [gddalton2003@gmail.com](mailto:gddalton2003@gmail.com)
-* 🧠  I'm learning Tools Used For Data Science
+* 🧠  I enjoy learning new programming languages and am interested in Data Science
 
 ### Skills
 
