@@ -3,7 +3,7 @@
 Hi 👋 My name is George Dalton
 ==============================
 
-Biomedical Research Scientist at Duke University
+I am a Biomedical Research Scientist at Duke University
 ------------------------------------------------
 
 I am a molecular pharmacologist at Duke University School of Medicine where I use bioinformatics tools to analyze bulk and single cell RNA-Seq data.
