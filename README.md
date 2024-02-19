@@ -7,6 +7,7 @@ I have a PhD in Pharmacology & Toxicology from the Medical College of Virginia (
 Following completion of my doctoral studies, I have worked for the past 15 years as a Biomedical Research Scientist.
 I am currently employed at Duke University Medical center where I use bioinformatics tools to analyze bulk and 
 single cell RNA sequencing data to study neurodegenerative disease.
+
 ------------------------------------------------
 
 * 🌍  I'm based in Raleigh, NC
