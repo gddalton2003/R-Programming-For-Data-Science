@@ -3,10 +3,11 @@
 Hi 👋 My name is George Dalton
 ==============================
 
-I am a Biomedical Research Scientist at Duke University
+I have a PhD in Pharmacology & Toxicology from the Medical College of Virginia (VCU) in Richmond, VA. 
+Following completion of my doctoral studies, I have worked for the past 15 years as a Biomedical Research Scientist.
+I am currently employed at Duke University Medical center where I use bioinformatics tools to analyze bulk and 
+single cell RNA sequencing data to study neurodegenerative disease.
 ------------------------------------------------
-
-I am a molecular pharmacologist at Duke University School of Medicine where I use bioinformatics tools to analyze bulk and single cell RNA-Seq data.
 
 * 🌍  I'm based in Raleigh, NC
 * ✉️  You can contact me at [gddalton2003@gmail.com](mailto:gddalton2003@gmail.com)
