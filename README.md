@@ -6,7 +6,10 @@ Hi 👋 My name is George Dalton
 I have a PhD in Pharmacology & Toxicology from the Medical College of Virginia (VCU) in Richmond, VA. 
 Following completion of my doctoral studies, I have worked for the past 15 years as a Biomedical Research Scientist.
 I have been employed at Duke University Medical Center for the past seven years where I use bioinformatics tools to 
-analyze bulk and single cell RNA sequencing data to study neurodegenerative disease.
+analyze bulk and single cell RNA sequencing data to study neurodegenerative disease. In addition to bioinformatics, 
+I’m currently enhancing my professional skillset by learning data science applications used in R and Python programming.
+The Projects folder in this repository contains code for some of the work I've done designing functions, subsetting
+data, etc. 
 
 ------------------------------------------------
 
